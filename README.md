@@ -1,3 +1,5 @@
+![Preview](https://github.com/hafiziazmi/nextjs-bootstrap/blob/main/public/img/nextjs-bootstrap-screenshot.png)
+
 # NextJS with Bootstrap Boilerplate
 
 Boilerplate for a [Next.js 16](https://nextjs.org/) Project using [Bootstrap 5.3](https://getbootstrap.com) Styling.
