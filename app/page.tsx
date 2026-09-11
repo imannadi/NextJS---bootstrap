@@ -10,7 +10,7 @@ export default function Home() {
 
       <div className="col-lg-8 mx-auto p-4 p-md-2" style={{ marginTop: '0' }}>
         <main className="py-5">
-          <h1 className="text-body-emphasis">NextJS 16 with Bootstrap 5.3</h1>
+          <h1 className="text-body-emphasis">Hello World</h1>
           <p className="fs-5 col-md-8">Quickly and easily get started with Bootstrap's compiled, production-ready files with this barebones example featuring some basic HTML scaffolding, Bootstrap's default responsive mobile-first grid system, and a simple navbar.</p>
 
           <a href="https://getbootstrap.com/docs/5.3/examples" className="btn btn-primary btn-lg px-4">Download examples</a>
